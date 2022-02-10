@@ -1,2 +1,2 @@
 # TFG_DGS
-Sistema de monitorización basado en LORA, MOSBUS y WIFI
+Sistema de monitorización basado en LORA, MODBUS y WIFI
